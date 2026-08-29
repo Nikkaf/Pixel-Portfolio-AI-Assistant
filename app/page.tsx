@@ -339,7 +339,7 @@ export default function Home() {
               alt=""
             />
           </span>
-          <span>the teal bird</span>
+          <span>Back to portfolio</span>
         </a>
 
         <div className="profile-content">
