@@ -4,7 +4,7 @@ A conversational portfolio experience that helps visitors learn about Nikka Foro
 
 ## Live experience
 
-[Open the Portfolio AI Assistant](https://portfolio-ai-assistant.nfi134.chatgpt.site)
+[Open the Portfolio AI Assistant](https://ai.nikka.me)
 
 ## About the project
 
